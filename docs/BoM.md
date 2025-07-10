@@ -12,9 +12,8 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | M5x20 BHCS                                 | 3            |                                                              |
 |               | M5x16 BHCS                                 | 7            |                                                              |
 |               | M5x10 BHCS                                 | 63           |                                                              |
-|               | M5x8 BHCS                                  | 20           | Optional -> Enclosure                                        |
+|               | M5x8 BHCS                                  | 20           | 8x of those are Optional -> Enclosure                        |
 |               | M4x8 BHCS                                  | 4            |                                                              |
-|               | M3,5x30                                    | 4            | BED Mounting                                                 |
 |               | M3x30 SHCS                                 | 22           |                                                              |
 |               | M3x25 SHCS                                 | 2            |                                                              |
 |               | M3x20 SHCS                                 | 4            |                                                              |
