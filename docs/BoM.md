@@ -4,28 +4,32 @@ As always this list is intended as a helpful reference but it may not be entirel
 
 | Category      | Component                                  | QTY          | Example Source                                               |
 | ------------- | ------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| Fasteners     | M3x5x4 Heatset Insert                      | 33           |                                                              |
+| Fasteners     | M3x5x4 Heatset Insert                      | 53           |                                                              |
 |               | M6x16 BHCS                                 | 16           |                                                              |
 |               | M5x40 SHCS                                 | 6            |                                                              |
 |               | M5x30 BHCS                                 | 4            |                                                              |
 |               | M5x25 BHCS                                 | 1            |                                                              |
-|               | M5x20 BHCS                                 | 2            |                                                              |
+|               | M5x20 BHCS                                 | 3            |                                                              |
 |               | M5x16 BHCS                                 | 7            |                                                              |
-|               | M5x10 BHCS                                 | 54           |                                                              |
+|               | M5x10 BHCS                                 | 63           |                                                              |
 |               | M5x8 BHCS                                  | 20           | Optional -> Enclosure                                        |
 |               | M4x8 BHCS                                  | 4            |                                                              |
-|               | M3x30 SHCS                                 | 18           |                                                              |
+|               | M3,5x30                                    | 4            | BED Mounting                                                 |
+|               | M3x30 SHCS                                 | 22           |                                                              |
 |               | M3x25 SHCS                                 | 2            |                                                              |
+|               | M3x20 SHCS                                 | 4            |                                                              |
 |               | M3x14 BHCS                                 | 2            |                                                              |
-|               | M3x12 SHCS                                 | 9            |                                                              |
-|               | M3x8 SHCS                                  | 52           |                                                              |
-|               | M3x6 FHCS                                  | 19           |                                                              |
-|               | M2x10 Self-Tapping                         | 4            |                                                              |
-|               | M5x1mm Spacer                              | 18           |                                                              |
+|               | M3x12 SHCS                                 | 13           |                                                              |
+|               | M3x8 SHCS                                  | 65           |                                                              |
+|               | M3x6 FHCS                                  | 23           |                                                              |
+|               | M2x10 Self-Tapping                         | 6            |                                                              |
+|               | M5x1mm Spacer                              | 20           |                                                              |
 |               | M5 Nut                                     | 3            |                                                              |
+|               | M3 Nut                                     | 1            |                                                              |
 | Motion        | MGN12H 300mm                               | 5            |                                                              |
 |               | F695-2RS                                   | 18           |                                                              |
-|               | GT2 20T 6mm                                | 2            |                                                              |
+|               | F695-2ZZ                                   | 2            |                                                              |
+|               | GT2 20T 6mm                                | 3            |                                                              |
 |               | Belts                                      | ~3-4m        |                                                              |
 | Frame         | 2020 Extrusion 310mm                       | 1            |                                                              |
 |               | 4080 Extrusion 500mm                       | 2            |                                                              |
@@ -42,6 +46,9 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | Mini12864                                  | 1            |                                                              |
 |               | Power Inlet / Rocker Switch BV             | 1            |                                                              |
 |               | Nema 17                                    | 2            |                                                              |
+| Electronics   | KW10 Microswitch                           | 1            |                                                              |
+| Buildplate    | Ender 3 Pro Heatbed Assembly (bed + heater + magnet + pei)| 1|                                                           |
+|               | Silicon Spacers                            | 4            |                                                              |
 |               | Female JST Connector                       | 1            |                                                              |
 | Other         | Switchwire Cable Chain Kit                 | 1            |                                                              |
 |               | Door Pulling Device                        | 1            |                                                              |
@@ -52,6 +59,25 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | Deck Panel Bottom                          | 1            |                                                              |
 |               | Deck Panel Bottom-Mid                      | 1            |                                                              |
 |               | Enclosure Panels                           | 9            | Optional                                                     |
+| Wiring        | 10x11 Cable Chain - Openable (1m)          | 2            |                                                              |
+|               | 16AWG Silicone Cable (10ft total)          | 2            |                                                              |
+|               | 20AWG Silicone Cable (10ft total)          | 1            |                                                              |
+|               | 24AWG Silicone Cable (100ft total)         | 1            |                                                              |
+|               | Fork Spade Terminal                        | 15           |                                                              |
+|               | Insulated Crimp Receptical                 | 10           |                                                              |
+|               | JST-XH Connector Plug 2 Position           | 4            |                                                              |
+|               | JST-XH Connector Plug 3 Position           | 1            |                                                              |
+|               | JST-XH Connector Plug 4 Position           | 4            |                                                              |
+|               | JST-XH Female Pin                          | 40           |                                                              |
+|               | MicroFit Connector Plug 2 Position (43640-0201) | 6       |                                                              |
+|               | MicroFit Connector Plug 3 Position (43640-0301) | 1       |                                                              |
+|               | MicroFit Connector Plug 4 Position (43640-0401) | 1       |                                                              |
+|               | MicroFit Connector Receptacle 2 Position (43645-0200) | 6 |                                                              |
+|               | MicroFit Connector Receptacle 3 Position (43645-0300) | 1 |                                                              |
+|               | MicroFit Connector Receptacle 4 Position (43645-0400) | 1 |                                                              |
+|               | MicroFit3 Female Pin (43030-0007)          | 40           |                                                              |
+|               | MicroFit3 Male Pin (43031-0007)            | 40           |                                                              |
+|               | Nylon Cable Ties 4"                        | 100          |                                                              |
 | Stealthburner | Mounting screws (M2.5 / M3)                | 2-4          |                                                              |
 |               | M3x8 SHCS                                  | 4            |                                                              |
 |               | M3x6 FHCS                                  | 3            |                                                              |
