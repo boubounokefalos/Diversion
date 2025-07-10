@@ -13,6 +13,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | M5x16 BHCS                                 | 7            |                                                              |
 |               | M5x10 BHCS                                 | 63           |                                                              |
 |               | M5x8 BHCS                                  | 20           | 8x of those are Optional -> Enclosure                        |
+|               | M4x25 FHCS                                 | 4            | Bed Mounting
 |               | M4x8 BHCS                                  | 4            |                                                              |
 |               | M3x30 SHCS                                 | 22           |                                                              |
 |               | M3x25 SHCS                                 | 2            |                                                              |
@@ -48,7 +49,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 | Electronics   | KW10 Microswitch                           | 1            |                                                              |
 | Buildplate    | Ender 3 Pro Heatbed Assembly (bed + heater + magnet + pei)| 1|                                                           |
 |               | Silicon Spacers                            | 4            |                                                              |
-|               | Female JST Connector                       | 1            |                                                              |
+|               | Curled Nuts                                | 4            | https://de.aliexpress.com/item/1005005147484464.html         |
 | Other         | Switchwire Cable Chain Kit                 | 1            |                                                              |
 |               | Door Pulling Device                        | 1            |                                                              |
 |               | Activated Carbon                           | 1            |                                                              |
