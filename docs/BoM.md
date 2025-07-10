@@ -52,7 +52,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | Ender 3 Pro Carriage -> Option 1           | 1            | Custom Drilling Needed -> https://aliexpress.com/item/1005005651418976.html |
 |               | Custom Carriage -> Option 2                | 1            | Custom CNC Carriage -> Alternative to E3 Pro Bed             |
 |               | Silicon Spacers                            | 4            |                                                              |
-|               | Curled Nuts                                | 4            | https://de.aliexpress.com/item/1005005147484464.html         |
+|               | Curled Nuts                                | 4            | https://aliexpress.com/item/1005005147484464.html         |
 | Other         | Switchwire Cable Chain Kit                 | 1            |                                                              |
 |               | Door Pulling Device                        | 1            |                                                              |
 |               | Activated Carbon                           | 1            |                                                              |
