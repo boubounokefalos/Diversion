@@ -24,7 +24,7 @@ TBA. Till then, CAD is your friend :D
 
 Special Thanks to:
 --------------------
-.*Voron Team for providing a solid base to start from (The Original SW).
-.*All of this loving 3D printing community on the Voron Discord servers.
-.*Yenda and Strayr for the idea of the more robust x/z motors.
-.*richardjm for his snap-latch-2020 mod, which is used with tiny modifications.
++ Voron Team for providing a solid base to start from (The Original SW).
++ All of this loving 3D printing community on the Voron Discord servers.
++ Yenda and Strayr for the idea of the more robust x/z motors.
++ richardjm for his snap-latch-2020 mod, which is used with tiny modifications.
