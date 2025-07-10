@@ -1,7 +1,7 @@
 Diversion MK_I (ALPHA State)
 ================
 ![Home](PIX/render_logo_1.png)
-$${\color{red}MY\space DISCLAIMER}$$
+$\color{Red}{\textbf{My Disclaimer:}}$
 --------------------------------
 Diversion [dəˈvərZHən] is a [Switchwire](https://github.com/VoronDesign/Voron-Switchwire) Mod. It is <ins>not</ins> an official Voron release, it is not a scratch build printer (it is based on the original’s Switchwire kinematics and build), BUT it is a project made with dedication and respect to the efforts of all the community.
 
