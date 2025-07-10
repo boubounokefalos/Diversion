@@ -4,7 +4,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 
 | Category      | Component                                  | QTY          | Notes                                                        |
 | ------------- | ------------------------------------------ |     :---:    | ------------------------------------------------------------ |
-| Fasteners     | M3x5x4 Heatset Insert                      | TBA          |                                                              |
+| Fasteners     | M3x5x4 Heatset Insert                      | 62           | These do not include the toolhead's inserts                  |
 |               | M6x16 BHCS                                 | 16           |                                                              |
 |               | M5x40 SHCS                                 | 6            |                                                              |
 |               | M5x30 BHCS                                 | 4            |                                                              |
@@ -13,7 +13,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | M5x16 BHCS                                 | 7            |                                                              |
 |               | M5x10 BHCS                                 | 63           |                                                              |
 |               | M5x8 BHCS                                  | 20           | 8x of those are Optional -> Enclosure                        |
-|               | M4x25 FHCS                                 | 4            | Bed Mounting
+|               | M4x25 FHCS                                 | 4            | This size can vary, depending on the bed mounts              |
 |               | M4x8 BHCS                                  | 4            |                                                              |
 |               | M3x30 SHCS                                 | 22           |                                                              |
 |               | M3x25 SHCS                                 | 2            |                                                              |
