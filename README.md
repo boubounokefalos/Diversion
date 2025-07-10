@@ -1,7 +1,7 @@
-# Diversion MK_I
+Diversion MK_I
 ================
 ![Home](PIX/render_logo_1.png)
-##$${\color{red}MY DISCLAIMER}$$
+$${\color{red}MY DISCLAIMER}$$
 --------------------------------
 Diversion [dəˈvərZHən] is a Switchwire Mod. It is <ins>not</ins> an official Voron release, it is not a scratch build printer (it is based on the original’s Switchwire kinematics and build), BUT it is a project made with dedication and respect to the efforts of all the community.
 
@@ -18,11 +18,11 @@ The basic hardware that is required for this build is common to a Voron build. Y
 --------------
 Instructions and clarification regarding various parts of this build will be added soon.
 
-##BOM:
+BOM:
 --------------
 TBA. Till then, CAD is your friend :D
 
-##Special Thanks to:
+Special Thanks to:
 --------------------
 .*Voron Team for providing a solid base to start from (The Original SW).
 .*All of this loving 3D printing community on the Voron Discord servers.
