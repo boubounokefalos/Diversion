@@ -20,7 +20,7 @@ Instructions and clarification regarding various parts of this build will be add
 
 BOM:
 --------------
-TBA. Till then, CAD is your friend :D
+[Link](./docs/BoM.md)
 
 Special Thanks to:
 --------------------
