@@ -47,7 +47,10 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | Power Inlet / Rocker Switch BV             | 1            |                                                              |
 |               | Nema 17                                    | 2            |                                                              |
 | Electronics   | KW10 Microswitch                           | 1            |                                                              |
-| Buildplate    | Ender 3 Pro Heatbed Assembly (bed + heater + magnet + pei)| 1|                                                           |
+| Buildplate    | Ender 3 Pro Heatbed (bed + heater)         | 1            | 235x235 -> https://aliexpress.com/item/1005007288279620.html |
+|               | Ender 3 Pro Pei Sheet + Magnet             | 1            | 235x235 -> https://aliexpress.com/item/1005005569535639.html |
+|               | Ender 3 Pro Carriage -> Option 1           | 1            | Custom Drilling Needed -> https://aliexpress.com/item/1005005651418976.html |
+|               | Custom Carriage -> Option 2                | 1            | Custom CNC Carriage -> Alternative to E3 Pro Bed             |
 |               | Silicon Spacers                            | 4            |                                                              |
 |               | Curled Nuts                                | 4            | https://de.aliexpress.com/item/1005005147484464.html         |
 | Other         | Switchwire Cable Chain Kit                 | 1            |                                                              |
