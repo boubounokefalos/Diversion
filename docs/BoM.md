@@ -31,11 +31,11 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | F695-2ZZ                                   | 2            |                                                              |
 |               | GT2 20T 6mm                                | 3            |                                                              |
 |               | Belts                                      | ~3-4m        |                                                              |
-| Frame         | 2020 Extrusion 310mm                       | 1            |                                                              |
-|               | 4080 Extrusion 500mm                       | 2            |                                                              |
+| Frame         | 4080 Extrusion 500mm                       | 2            |                                                              |
 |               | 2040 Extrusion 250mm                       | 2            |                                                              |
 |               | 2040 Extrusion 400mm                       | 2            |                                                              |
 |               | 2020 Extrusion 330mm                       | 1            |                                                              |
+|               | 2020 Extrusion 310mm                       | 1            |                                                              |
 | Electronics   | 6020 Axial Fan                             | 1            |                                                              |
 |               | 5015 Blower Fan                            | 1            |                                                              |
 |               | Meanwell LRS-350-24                        | 1            |                                                              |
