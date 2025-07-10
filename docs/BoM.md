@@ -3,8 +3,8 @@
 As always this list is intended as a helpful reference but it may not be entirely accurate or complete. Quantities can vary depending on specific build choices, mistakes during assembly, or future modifications, so it is always a good idea to order a few extra components where possible to avoid delays. If you come across any missing parts or notice anything that seems incorrect, please do not hesitate to let us know so we can update the list for everyone’s benefit. 
 
 | Category      | Component                                  | QTY          | Notes                                                        |
-| ------------- | ------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| Fasteners     | M3x5x4 Heatset Insert                      | 53           |                                                              |
+| ------------- | ------------------------------------------ |     :---:    | ------------------------------------------------------------ |
+| Fasteners     | M3x5x4 Heatset Insert                      | TBA          |                                                              |
 |               | M6x16 BHCS                                 | 16           |                                                              |
 |               | M5x40 SHCS                                 | 6            |                                                              |
 |               | M5x30 BHCS                                 | 4            |                                                              |
@@ -27,34 +27,34 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | M5 Nut                                     | 3            |                                                              |
 |               | M3 Nut                                     | 1            |                                                              |
 | Motion        | MGN12H 300mm                               | 5            |                                                              |
-|               | F695-2RS                                   | 18           |                                                              |
-|               | F695-2ZZ                                   | 2            |                                                              |
+|               | F695-2RS                                   | 20           |                                                              |
 |               | GT2 20T 6mm                                | 3            |                                                              |
-|               | Belts                                      | ~3-4m        |                                                              |
+|               | Belts                                      | 4m           |                                                              |
+|               | Door Pulling Device                        | 1            | 500gr is adequate. [AliExpress](https://www.aliexpress.com/item/1005007301954898.html?)
 | Frame         | 4080 Extrusion 500mm                       | 2            |                                                              |
 |               | 2040 Extrusion 250mm                       | 2            |                                                              |
 |               | 2040 Extrusion 400mm                       | 2            |                                                              |
 |               | 2020 Extrusion 330mm                       | 1            |                                                              |
 |               | 2020 Extrusion 310mm                       | 1            |                                                              |
-| Electronics   | 6020 Axial Fan                             | 1            |                                                              |
-|               | 5015 Blower Fan                            | 1            |                                                              |
+| Misc          | 6mm x 3mm Round Neodymium Magnets          | 90           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure|
+| Electronics   | 6020 Axial Fan                             | 1            | [GDStime](https://www.aliexpress.com/item/32899594270.html)  |
+|               | 50x50x15 Centrifugal Fan                   | 1            |                                                              |
 |               | Meanwell LRS-350-24                        | 1            |                                                              |
 |               | BIGTREETECH SKR MINI E3                    | 1            |                                                              |
 |               | Meanwell RS-25-5                           | 1            |                                                              |
 |               | Raspberry Pi                               | 1            |                                                              |
 |               | Wago 221-413                               | 3            |                                                              |
 |               | Mini12864                                  | 1            |                                                              |
-|               | Power Inlet / Rocker Switch BV             | 1            |                                                              |
-|               | Nema 17                                    | 2            |                                                              |
-| Electronics   | KW10 Microswitch                           | 1            |                                                              |
-| Buildplate    | Ender 3 Pro Heatbed (bed + heater)         | 1            | 235x235 -> https://aliexpress.com/item/1005007288279620.html |
-|               | Ender 3 Pro Pei Sheet + Magnet             | 1            | 235x235 -> https://aliexpress.com/item/1005005569535639.html |
-|               | Ender 3 Pro Carriage -> Option 1           | 1            | Custom Drilling Needed -> https://aliexpress.com/item/1005005651418976.html |
-|               | Custom Carriage -> Option 2                | 1            | Custom CNC Carriage -> Alternative to E3 Pro Bed             |
-|               | Silicon Spacers                            | 4            |                                                              |
-|               | Curled Nuts                                | 4            | https://aliexpress.com/item/1005005147484464.html         |
+|               | Power Inlet / Rocker Switch BV             | 1            | [AliExpress](https://www.aliexpress.com/item/32706948395.html?)|
+|               | NEMA17 Motor 17HS15-1504S1	               | 2            | [Stepper Online](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-63-74oz-in-1-5a-42x42x39mm-4-wires-w-1m-cable-connector-17hs15-1504s1)|
+|               | KW10 Microswitch                           | 1            |                                                              |
+| Buildplate    | Ender 3/Pro Heatbed                        | 1            | Common 235x235 Ender heatbed. Can be either salvaged from an Ender or from various vendors |
+|               | Ender 3 Pro Pei Sheet + Magnet             | 1            |                                                              |
+|               | Ender 3/Pro Carriage -> Option 1           | 1            | Custom Drilling Needed (drilling jig included in the STLs    |
+|               | Snowflake Custom Carriage -> Option 2      | 1            | Best and a bit pricier option. [JLCCNC](https://jlccnc.com/) is a nice source, use Aluminum 7075|
+|               | Silicon Spacers or Springs                 | 4            | Both of them work, best option is the silicon spacers        |
+|               | Curled Nuts                                | 4            | [AliExpress](https://aliexpress.com/item/1005005147484464.html)|
 | Other         | Switchwire Cable Chain Kit                 | 1            |                                                              |
-|               | Door Pulling Device                        | 1            |                                                              |
 |               | Activated Carbon                           | 1            |                                                              |
 |               | PTFE Tube                                  | 1            |                                                              |
 | Panels        | Deck Panel Left                            | 1            |                                                              |
