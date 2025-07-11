@@ -1,4 +1,4 @@
-# BoM (Bill of Material)
+# BoM (Bill of Material) WIP
 
 As always this list is intended as a helpful reference but it may not be entirely accurate or complete. Quantities can vary depending on specific build choices, mistakes during assembly, or future modifications, so it is always a good idea to order a few extra components where possible to avoid delays. If you come across any missing parts or notice anything that seems incorrect, please do not hesitate to let us know so we can update the list for everyone’s benefit. 
 
@@ -34,6 +34,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 | Frame         | 4080 Extrusion 500mm                       | 2            |                                                              |
 |               | 2040 Extrusion 250mm                       | 2            |                                                              |
 |               | 2040 Extrusion 400mm                       | 2            |                                                              |
+|               | 2020 Extrusion 300mm                       | 2            |                                                              |
 |               | 2020 Extrusion 330mm                       | 1            |                                                              |
 |               | 2020 Extrusion 310mm                       | 1            |                                                              |
 | Misc          | 6mm x 3mm Round Neodymium Magnets          | 90           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure|
