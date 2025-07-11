@@ -31,7 +31,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | GT2 20T 6mm                                | 3            |                                                              |
 |               | Belts                                      | 4m           |                                                              |
 |               | Door Pulling Device                        | 1            | 500gr is adequate. [AliExpress](https://www.aliexpress.com/item/1005007301954898.html?)
-| Frame         | 4080 Extrusion 500mm                       | 2            |                                                              |
+| Frame         | 4080 C-Beams Extrusion 500mm               | 2            |                                                              |
 |               | 2040 Extrusion 250mm                       | 2            |                                                              |
 |               | 2040 Extrusion 400mm                       | 2            |                                                              |
 |               | 2020 Extrusion 300mm                       | 2            |                                                              |
