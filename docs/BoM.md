@@ -37,7 +37,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | 2020 Extrusion 300mm                       | 2            |                                                              |
 |               | 2020 Extrusion 330mm                       | 1            |                                                              |
 |               | 2020 Extrusion 310mm                       | 1            |                                                              |
-| Misc          | 6mm x 3mm Round Neodymium Magnets          | 90           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure|
+| Misc          | 6mm x 3mm Round Neodymium Magnets          | 98           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure|
 | Electronics   | 6020 Axial Fan                             | 1            | [GDStime](https://www.aliexpress.com/item/32899594270.html)  |
 |               | 50x50x15 Centrifugal Fan                   | 1            |                                                              |
 |               | Meanwell LRS-350-24                        | 1            |                                                              |
