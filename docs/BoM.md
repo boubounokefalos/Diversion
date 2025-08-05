@@ -37,7 +37,7 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | 2020 Extrusion 300mm                       | 2            |                                                              |
 |               | 2020 Extrusion 330mm                       | 1            |                                                              |
 |               | 2020 Extrusion 310mm                       | 1            |                                                              |
-| Misc          | 6mm x 3mm Round Neodymium Magnets          | 98           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure|
+| Misc          | 6mm x 3mm Round Neodymium Magnets          | 98           | The excessive use of, preferably n52, magnets is mandatory for the modular design of the enclosure (you only need 90 if you are not using the BTT screen)|
 | Electronics   | 6020 Axial Fan                             | 1            | [GDStime](https://www.aliexpress.com/item/32899594270.html)  |
 |               | 50x50x15 Centrifugal Fan                   | 1            |                                                              |
 |               | Meanwell LRS-350-24                        | 1            |                                                              |
@@ -45,13 +45,13 @@ As always this list is intended as a helpful reference but it may not be entirel
 |               | Meanwell RS-25-5                           | 1            |                                                              |
 |               | Raspberry Pi                               | 1            |                                                              |
 |               | Wago 221-413                               | 3            |                                                              |
-|               | Mini12864                                  | 1            |                                                              |
+|               | Mini12864 or BTT Pi43TFT                   | 1            |                                                              |
 |               | Power Inlet / Rocker Switch BV             | 1            | [AliExpress](https://www.aliexpress.com/item/32706948395.html?)|
 |               | NEMA17 Motor 17HS15-1504S1	               | 2            | [Stepper Online](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-63-74oz-in-1-5a-42x42x39mm-4-wires-w-1m-cable-connector-17hs15-1504s1)|
 |               | KW10 Microswitch                           | 1            |                                                              |
 | Buildplate    | Ender 3/Pro Heatbed                        | 1            | Common 235x235 Ender heatbed. Can be either salvaged from an Ender or from various vendors |
 |               | Ender 3 Pro Pei Sheet + Magnet             | 1            |                                                              |
-|               | Ender 3/Pro Carriage -> Option 1           | 1            | Custom Drilling Needed (drilling jig included in the STLs    |
+|               | Ender 3/Pro Carriage -> Option 1           | 1            | Custom Drilling Needed (drilling jig included in the STLs)   |
 |               | Snowflake Custom Carriage -> Option 2      | 1            | Best and a bit pricier option. [JLCCNC](https://jlccnc.com/) is a nice source, use Aluminum 7075|
 |               | Silicon Spacers or Springs                 | 4            | Both of them work, best option is the silicon spacers        |
 |               | Curled Nuts                                | 4            | [AliExpress](https://aliexpress.com/item/1005005147484464.html)|
