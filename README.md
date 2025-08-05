@@ -27,7 +27,7 @@ The enclosure is an attempt to improve on the original SW enclosure in the area 
 On the Y-axis, two parallel linear rails are used. They improve rigidity but require careful alignment (using the included brackets) to prevent binding during movement. An Ender 3 carriage drill jig is included, but the ideal option is to CNC the included Snowflake Y-carriage .step file.
 
 
-BOM:
+BOM (WIP):
 --------------
 [Link](./docs/BoM.md)
 
